@@ -12,20 +12,19 @@ Crear un archivo con texto y añadirlo para un commit en camino
 Realizar un commit  
 ![img4](https://drive.google.com/file/d/110nVMFF_nBcgo7Y8hJFicPa26z5jhnkp/view?usp=sharing)  
 
-**Punto 4**  
-Hacer cambios en el archivo y agregar alguna linea nueva  
-![img5]()  
-
 **Punto 5**  
-Ver el historial ejecutando "git log"  
-![img6]()  
+Hacer cambios en el archivo y agregar alguna linea nueva  
+![img5](https://drive.google.com/file/d/1DZQAgLUdvXGSpVkyyqLfJTi9rq6OGxdG/view?usp=sharing)  
 
 **Punto 6**  
 Para leer el historial de commits, debemos buscar el "initial commit" (viene siendo el commit inicial), y de allí leer las fechas de creación de los demás commits.  
-![img7](https://drive.google.com/file/d/1-8gqYc10isJm-8x-4ewZwjn1-1-skhG2/view?usp=drive_link)  
+![img6](https://drive.google.com/file/d/1jLX-cNrml2cXHBNyDqbl72OOlEbtLHfz/view?usp=sharing)  
 
 **Punto 7**  
 Crear rama y cambiar de rama  
+![img7](https://drive.google.com/file/d/1yGIsjIpp7irEfpwoK0cu5DIgDXnV_ZdZ/view?usp=sharing)  
 
-
+**Punto 8**  
+Cambiar a la rama principal y fusionar cambios  
+![img8](https://drive.google.com/file/d/16llF4NlrS_uYHIgzWDTzjCoBXvTPkTfx/view?usp=sharing)  
 
